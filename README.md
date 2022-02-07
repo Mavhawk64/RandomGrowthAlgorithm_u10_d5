@@ -1,2 +1,2 @@
-# RandomGrowthAlgorithm_u10_d5
+# RandomGrowthAlgorithm +10% -5%
 This is a very basic program that estimates what you will make over a certain amount of years if you follow a pattern of selling at +10% gain and -5% loss. It divides profile into 10 stocks of equal value and 'flips a coin' to determine whether each stock will go up or down that month. It also can determine the minimum gain probability in order to break even (over say 1000 trials).
